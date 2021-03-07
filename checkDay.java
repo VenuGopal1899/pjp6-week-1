@@ -15,6 +15,8 @@ class Test{
 				System.out.println("Fridays are better.");
 				break;
 			case SATURDAY:
+				System.out.println("Guess you got time to catch your breath.");
+				break;
 			case SUNDAY:
 				System.out.println("Weekends are best.");
 				break;
