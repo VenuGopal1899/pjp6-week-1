@@ -15,6 +15,7 @@ class Test{
 				System.out.println("Fridays are better.");
 				break;
 			case SATURDAY:
+// 				Below 2 lines have been added on remote repository as part of Question 1.viii
 				System.out.println("Guess you got time to catch your breath.");
 				break;
 			case SUNDAY:
